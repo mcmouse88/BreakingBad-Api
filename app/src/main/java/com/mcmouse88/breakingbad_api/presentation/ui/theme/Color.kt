@@ -1,4 +1,4 @@
-package com.mcmouse88.breakingbad_api.ui.theme
+package com.mcmouse88.breakingbad_api.presentation.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

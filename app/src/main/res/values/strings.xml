@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">BreakingBad-Api</string>
+    <string name="app_name">Rick-Morty-JC</string>
+    <string name="splash_screen">This is Splash Screen</string>
 </resources>
